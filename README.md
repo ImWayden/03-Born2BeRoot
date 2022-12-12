@@ -8,7 +8,7 @@ DE PLUS LES REPONSES N'ONT PAS ENCORE TOUTES ETE VALIDEE
 ## Project Overview
 ### Comment fonctionne une machine Virtuelle
 
-c'est un environnement entièrement virtualisé qui fonctionne sur une machine physique. Elle exécute son propre système d’exploitation (OS) et bénéficie des mêmes équipement qu’une machine physique : CPU, mémoire RAM, disque dur et carte réseau.
+une machine virtuelle est un environnement entièrement virtualisé qui fonctionne sur une machine physique. Elle exécute son propre système d’exploitation (OS) et bénéficie des mêmes équipement qu’une machine physique : CPU, mémoire RAM, disque dur et carte réseau.
 
 ### Quel est l'Os que vous avez choisit
  Debian ou CentOS
@@ -27,9 +27,9 @@ physique. Vous pouvez ainsi disposer d’une machine virtuelle par système d’
 Réaliser des économies en installant plusieurs machines virtuelles sur un seul support physique plutôt que de multiplier les ordinateurs en service.
 
 ### Si vous avez choisit CentOs, qu'est ce que SELinux et DNF
- #### SELinux
-    (Security-Enhanced Linux) est une architecture de sécurité pour systèmes Linux® qui permet aux administrateurs de mieux contrôler les accès au système. 
-    SELinux définit les contrôles d'accès pour les applications, processus et fichiers d'un système. Il utilise des politiques de sécurité, c'est-à-dire des ensembles de règles qui lui indiquent ce à quoi un utilisateur peut accéder ou non, pour mettre en application les autorisations d'accès définies par une politique. 
+#### SELinux
+(Security-Enhanced Linux) est une architecture de sécurité pour systèmes Linux® qui permet aux administrateurs de mieux contrôler les accès au système. 
+SELinux définit les contrôles d'accès pour les applications, processus et fichiers d'un système. Il utilise des politiques de sécurité, c'est-à-dire des ensembles de règles qui lui indiquent ce à quoi un utilisateur peut accéder ou non, pour mettre en application les autorisations d'accès définies par une politique. 
 source [redhat](https://www.redhat.com/fr/topics/linux/what-is-selinux)
 ### Sivous avez choisit Debian, qu'elle est la difference entre aptitude et apt, et c'est quoi APPArmor
 
