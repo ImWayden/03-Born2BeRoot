@@ -1,5 +1,5 @@
 # 03-Born2BeRoot
-Ce Readme contient tote les reponses aux question posable 
+Ce Readme contiendra toute les reponses aux question posable 
 durant la correction de Born2BeRoot 
 ATTENTION CETTE VERSION EST UN PREMIER JET ET PEUT NE PAS CORRESPONDRE A VOTRE SUJET
 DE PLUS LES REPONSES N'ONT PAS ENCORE TOUTES ETE VALIDEE 
