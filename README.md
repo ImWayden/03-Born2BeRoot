@@ -5,7 +5,7 @@ ATTENTION CETTE VERSION EST UN PREMIER JET ET PEUT NE PAS CORRESPONDRE A VOTRE S
 DE PLUS LES REPONSES N'ONT PAS ENCORE TOUTES ETE VALIDEE 
 la majorite des reponses ont ete generee par [GPT3](https://chat.openai.com/chat)
 
-de plus ces reponses sont bases sur le sujet du 5/24/2021 et pet ne pas etre a jour
+de plus ces reponses sont bases sur le sujet du 5/24/2021 et peut ne pas etre a jour
 # Questions
 
 ## Project Overview
