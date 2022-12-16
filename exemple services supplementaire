@@ -1,0 +1,36 @@
+Serveur Web : Apache ou Nginx sont des serveurs Web populaires et faciles à installer. 
+ Ils vous permettent de héberger des sites Web et de les rendre accessibles sur Internet.
+
+Base de données : MySQL ou PostgreSQL sont des systèmes de gestion de bases de données relationnelles très populaires et faciles à installer. 
+ Ils vous permettent de stocker et de gérer les données de votre application ou de votre site Web.
+
+Serveur de courrier électronique : Postfix ou Exim sont des serveurs de courrier électronique populaires et faciles à installer. 
+ Ils vous permettent de gérer les emails de votre domaine et de les envoyer et recevoir via Internet.
+
+Serveur de fichiers : Samba ou NFS sont des serveurs de fichiers populaires et faciles à installer. 
+ Ils vous permettent de partager des fichiers et des dossiers avec d'autres utilisateurs sur votre réseau local ou sur Internet.
+
+Serveur DNS : BIND ou PowerDNS sont des serveurs DNS populaires et faciles à installer. 
+ Ils vous permettent de gérer les enregistrements DNS de votre domaine et de fournir des résolutions de noms pour les ordinateurs sur votre réseau ou sur Internet.
+
+Serveur SSH : OpenSSH est un serveur SSH populaire et facile à installer. 
+ Il vous permet de vous connecter à distance à votre ordinateur Linux via un terminal sécurisé et de lancer des commandes à distance.
+
+Serveur VPN : OpenVPN ou StrongSwan sont des serveurs VPN populaires et faciles à installer. 
+ Ils vous permettent de créer un réseau privé virtuel sécurisé pour accéder à vos ressources réseau locales depuis n'importe où sur Internet.
+
+Serveur de surveillance : Nagios ou Zabbix sont des serveurs de surveillance populaires et faciles à installer. 
+ Ils vous permettent de surveiller les ressources de votre réseau (ordinateurs, serveurs, services, etc.) et de recevoir des alertes en cas de problème.
+
+
+Serveur FTP : ProFTPD ou vsftpd sont des serveurs FTP populaires et faciles à installer. 
+ Ils vous permettent de partager des fichiers via le protocole FTP (File Transfer Protocol) avec d'autres utilisateurs sur votre réseau ou sur Internet.
+
+Serveur de chat : IRCd ou Matrix sont des serveurs de chat populaires et faciles à installer. 
+ Ils vous permettent de créer des salons de discussion en ligne et de communiquer avec d'autres utilisateurs via un client de chat.
+ 
+Serveur de partage de fichiers P2P : BitTorrent ou rTorrent sont des serveurs de partage de fichiers P2P populaires et faciles à installer. 
+ Ils vous permettent de partager des fichiers avec d'autres utilisateurs sur le réseau BitTorrent.
+
+Serveur de stockage en ligne : Nextcloud ou ownCloud sont des serveurs de stockage en ligne populaires et faciles à installer. 
+ Ils vous permettent de stocker et de partager des fichiers, des calendriers, des contacts, etc. avec d'autres utilisateurs sur votre réseau local ou sur Interne
